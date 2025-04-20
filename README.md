@@ -8,7 +8,6 @@ Feature selection and encoding
 Model training and evaluation using machine learning
 Performance metrics to assess prediction accuracy
 
-
  # Technologies Used:
 Python
 Pandas & NumPy
